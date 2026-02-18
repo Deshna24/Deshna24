@@ -64,7 +64,7 @@ deshna_tendulkar:
 ### 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/=Deshna24/=Deshna24/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
