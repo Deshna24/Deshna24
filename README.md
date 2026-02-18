@@ -15,8 +15,9 @@ deshna_tendulkar:
     - Data Science
   philosophy: Exploring the intersection of Tech and Ethics
   hobbies:
-    - Solving SQL challenges
-    - Exploring Hindu Philosophy
+    - Solving challenges
+    - Exploring Tech
+    - Reading and writing
 ```
 
 ---
