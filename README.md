@@ -1,20 +1,22 @@
-
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Deshna!%20👋&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
 
 # 🚀 About Me
 
-I am an **AIML student** (Batch 2024-2028) with a deep interest in Artificial Intelligence, Machine Learning, and Data Science. I focus on building software that bridges the gap between complex algorithms and real-world utility, particularly in civic tech and healthcare therapy.
+I am an **AIML student** (Batch 2024–2028) with a deep interest in Artificial Intelligence, Machine Learning, and Data Science. I focus on building software that bridges the gap between complex algorithms and real-world utility, particularly in civic tech and healthcare therapy.
 
 ```yaml
 deshna_tendulkar:
   current_status: 4th Semester AIML Student
-  focus_areas: [Deep Learning, Web Development, Data Science]
+  focus_areas:
+    - Deep Learning
+    - Web Development
+    - Data Science
   philosophy: Exploring the intersection of Tech and Ethics
-  hobbies: Solving SQL challenges, exploring Hindu Philosophy
-
+  hobbies:
+    - Solving SQL challenges
+    - Exploring Hindu Philosophy
 ```
 
 ---
@@ -24,38 +26,46 @@ deshna_tendulkar:
 ### Languages & Web Development
 
 <p align="left">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
 </p>
 
 ### Data Science & Tools
 
-* **Libraries:** Pandas, NumPy, Scikit-learn
-* **Concepts:** Image Classificatio, Ethical AI, Genetic Data Visualization
-* **Platforms:** HackerRank (SQL & Coding), Git/GitHub
+- **Libraries:** Pandas, NumPy, Scikit-learn  
+- **Concepts:** Image Classification, Ethical AI, Genetic Data Visualization  
+- **Platforms:** HackerRank (SQL & Coding), Git/GitHub  
 
 ---
 
 ## 🏗️ Featured Projects
 
-* **🏙️ CitySync** – A civic issue reporting platform developed for the Smart India Hackathon 2025.
-* **🧬 GeneVerse** – A specialized web application for exploring and visualizing genetic data.
-* **🛡️ UAIDE** – Unified AI-Origin Detection Engine aimed at identifying AI-generated content.
+- 🏙️ **CitySync** – Civic issue reporting platform (Smart India Hackathon 2025)  
+- 🧬 **GeneVerse** – Genetic data visualization web app  
+- 🛡️ **UAIDE** – Unified AI-Origin Detection Engine  
 
 ---
 
 ## 📊 My GitHub Journey
 
+
+
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Deshna24&show_icons=true&theme=radical&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshna24&layout=compact&theme=radical"/>
 </p>
 
-### 🐍 Contribution Activity
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
@@ -63,15 +73,18 @@ deshna_tendulkar:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/deshna-tendulkar-9ab3a0370">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:deshnatendulkar@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer"/>
+</p>
 
-```
 
 
 
