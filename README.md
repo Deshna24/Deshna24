@@ -50,25 +50,6 @@ deshna_tendulkar:
 
 ---
 
-## 📊 My GitHub Journey
-
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Deshna24&show_icons=true&theme=radical&rank_icon=github"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshna24&layout=compact&theme=radical"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/=Deshna24/=Deshna24/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 📬 Get in Touch
 
 <p align="left">
