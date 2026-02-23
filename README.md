@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  HEADER — uses a mid-purple start so text is always visible -->
-<!--  on both white (GitHub light) and dark backgrounds          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7b5ea7,100:a78bfa&height=220&section=header&text=Deshna%20Tendulkar&fontSize=62&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=AIML%20Student%20%7C%20Builder%20%7C%20Thinker&descAlignY=62&descAlign=50&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%"/>
 
 </div>
@@ -195,15 +191,23 @@ fun_fact: >
 
 <div align="center">
 
-<!-- Stats cards — hide_border keeps them clean on any background -->
-<img src="https://github-readme-stats.vercel.app/api?username=Deshna24&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=f472b6&text_color=e2e0f0&count_private=true&include_all_commits=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshna24&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e0f0&langs_count=8" height="165"/>
+<!--
+  FIX: github-readme-stats.vercel.app shared instance gets rate-limited.
+  Using vercel.app with &cache_seconds=86400 reduces misses.
+  Two cards side by side — if one misses cache they reload independently.
+-->
+
+<a href="https://github.com/Deshna24">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deshna24&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=f472b6&text_color=e2e0f0&count_private=true&include_all_commits=true&cache_seconds=86400" />
+</a>
+<a href="https://github.com/Deshna24">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshna24&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e0f0&langs_count=8&cache_seconds=86400" />
+</a>
 
 <br><br>
 
-<!-- Streak — demolab is the maintained, reliable fork -->
-<img src="https://streak-stats.demolab.com?user=Deshna24&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7b5ea7&ring=a78bfa&fire=f472b6&currStreakNum=ffffff&sideNums=e2e0f0&currStreakLabel=a78bfa&sideLabels=6b6a8a&dates=6b6a8a" />
+<!-- Streak — demolab.com is the actively maintained fork, most reliable -->
+<img src="https://streak-stats.demolab.com?user=Deshna24&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=7b5ea7&ring=a78bfa&fire=f472b6&currStreakNum=ffffff&sideNums=e2e0f0&currStreakLabel=a78bfa&sideLabels=6b6a8a&dates=6b6a8a&cache_seconds=86400" />
 
 </div>
 
@@ -213,12 +217,16 @@ fun_fact: >
 
 <div align="center">
 
-<!-- Trophies — tokyonight is one of the most stable themes -->
-<img src="https://github-profile-trophy.vercel.app/?username=Deshna24&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10&no-bg=false" />
+<!--
+  FIX: github-profile-trophy with theme=onedark is consistently stable.
+  Added &rank=SECRET,SSS,SS,S,AAA,AA,A,B,C so empty early profiles still render.
+  no-frame=true + column=4 avoids overflow that sometimes breaks rendering.
+-->
+<img src="https://github-profile-trophy.vercel.app/?username=Deshna24&theme=onedark&no-frame=true&column=4&margin-w=12&margin-h=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 <br><br>
 
-<!-- Activity graph — vercel deployment, reliable -->
+<!-- Activity graph — most reliable of the three, kept as-is -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deshna24&bg_color=0d0d1a&color=a78bfa&line=7b5ea7&point=f472b6&area=true&hide_border=true&custom_title=Deshna's%20Contribution%20Graph" />
 
 </div>
